@@ -4,7 +4,7 @@ This guide will walk you through the steps to deploy a two-tier WordPress applic
 
 ## Prerequisites 
 
-1. An AWS account with appropriate permissions.
+1. An AWS account with appropriate permissions .
 2. Basic familiarity with AWS services.
 3. A domain pointing to the ec2's ip
 
