@@ -2,7 +2,7 @@
 
 This guide will walk you through the steps to deploy a two-tier WordPress application on Ubuntu 22 using AWS EC2 for the web server and AWS RDS for the database.
 
-## Prerequisites
+## Prerequisites 
 
 1. An AWS account with appropriate permissions.
 2. Basic familiarity with AWS services.
